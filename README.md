@@ -10,7 +10,7 @@ Complete ticket system with buttons, registration log and more.
 
 
 > [!WARNING]
-> You need install this dependecies: npm i mongoose | discord-html-transcripts
+> You need install this dependecies: npm i mongoose | discord-html-transcripts | chalk
 
 
 [IMAGE](https://cdn.discordapp.com/attachments/1102518303836082217/1194928327379652648/image.png?ex=65b222b9&is=659fadb9&hm=dbda934e1502fb55c93a893ac89b38e49e2cd4c9dde860f0ec7ec9bc951aa04e&)
