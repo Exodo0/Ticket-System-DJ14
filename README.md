@@ -1,6 +1,6 @@
 # Ticket-System-DJ14
- Complete ticket system with buttons, registration log and more.
 
+Complete ticket system with buttons, registration log and more.
 
-- [!Warning]
-- This bot is not finished yet, so there may be bugs.
+> [!NOTE]
+> This a ticket system only works on discord.js v14.
